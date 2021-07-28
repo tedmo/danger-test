@@ -1,0 +1,16 @@
+[
+  {
+    "username":"reviewer.one","name":"Reviewer One",
+    "role":"Backend Engineer",
+    "projects": {
+      "gitlab-operations-poc":"maintainer backend frontend"
+    }
+  },
+  {
+    "username":"reviewer.two","name":"Reviewer Two",
+    "role":"Backend Engineer",
+    "projects": {
+      "gitlab-operations-poc":"maintainer backend frontend"
+    }
+  }
+]
