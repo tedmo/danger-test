@@ -3,14 +3,14 @@
     "username":"reviewer.one","name":"Reviewer One",
     "role":"Backend Engineer",
     "projects": {
-      "gitlab-operations-poc":"maintainer backend frontend"
+      "gitlab-operations-poc":"maintainer backend"
     }
   },
   {
     "username":"reviewer.two","name":"Reviewer Two",
     "role":"Backend Engineer",
     "projects": {
-      "gitlab-operations-poc":"maintainer backend frontend"
+      "gitlab-operations-poc":"reviewer backend"
     }
   }
 ]
