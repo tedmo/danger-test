@@ -82,5 +82,19 @@
     "projects": {
       "gitlab-operations-poc":"maintainer backend"
     }
+  },
+  {
+    "username":"frontend.reviewer","name":"Frontend Reviewer",
+    "role":"Backend Engineer",
+    "projects": {
+      "gitlab-operations-poc":"reviewer frontend"
+    }
+  },
+  {
+    "username":"golang.reviewer","name":"Golang Reviewer",
+    "role":"Backend Engineer",
+    "projects": {
+      "gitlab-operations-poc":"reviewer golang"
+    }
   }
 ]
