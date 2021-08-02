@@ -1,100 +1,72 @@
 [
   {
-    "username":"reviewer.one","name":"Reviewer One",
+    "username":"tim.edmondson","name":"Tim Edmondson",
     "role":"Backend Engineer",
     "projects": {
       "gitlab-operations-poc":"reviewer backend"
     }
   },
   {
-    "username":"reviewer.two","name":"Reviewer Two",
+    "username":"Nathan.Hitchings","name":"Nathan Hitchings",
     "role":"Backend Engineer",
     "projects": {
       "gitlab-operations-poc":"reviewer backend"
     }
   },
   {
-    "username":"reviewer.three","name":"Reviewer Three",
+    "username":"justin.mills","name":"Justin Mills",
     "role":"Backend Engineer",
     "projects": {
       "gitlab-operations-poc":"reviewer backend"
     }
   },
   {
-    "username":"reviewer.four","name":"Reviewer Four",
+    "username":"tmcveigh","name":"Tim McVeigh",
     "role":"Backend Engineer",
     "projects": {
       "gitlab-operations-poc":"reviewer backend"
     }
   },
   {
-    "username":"reviewer.five","name":"Reviewer Five",
-    "role":"Backend Engineer",
-    "projects": {
-      "gitlab-operations-poc":"reviewer backend"
-    }
-  },
-  {
-    "username":"reviewer.six","name":"Reviewer Six",
-    "role":"Backend Engineer",
-    "projects": {
-      "gitlab-operations-poc":"reviewer backend"
-    }
-  },
-    {
-    "username":"maintainer.one","name":"Maintainer One",
+    "username":"tim.edmondson","name":"Tim Edmondson",
     "role":"Backend Engineer",
     "projects": {
       "gitlab-operations-poc":"maintainer backend"
     }
   },
   {
-    "username":"maintainer.two","name":"Maintainer Two",
+    "username":"Nathan.Hitchings","name":"Nathan Hitchings",
     "role":"Backend Engineer",
     "projects": {
       "gitlab-operations-poc":"maintainer backend"
     }
   },
   {
-    "username":"maintainer.three","name":"Maintainer Three",
-    "role":"Backend Engineer",
-    "projects": {
-      "gitlab-operations-poc":"maintainer backend"
-    }
-  },
-  {
-    "username":"maintainer.four","name":"Maintainer Four",
-    "role":"Backend Engineer",
-    "projects": {
-      "gitlab-operations-poc":"maintainer backend"
-    }
-  },
-  {
-    "username":"maintainer.five","name":"Maintainer Five",
-    "role":"Backend Engineer",
-    "projects": {
-      "gitlab-operations-poc":"maintainer backend"
-    }
-  },
-  {
-    "username":"maintainer.six","name":"Maintainer Six",
-    "role":"Backend Engineer",
-    "projects": {
-      "gitlab-operations-poc":"maintainer backend"
-    }
-  },
-  {
-    "username":"frontend.reviewer","name":"Frontend Reviewer",
+    "username":"justin.mills","name":"Justin Mills",
     "role":"Backend Engineer",
     "projects": {
       "gitlab-operations-poc":"reviewer frontend"
     }
   },
   {
-    "username":"golang.reviewer","name":"Golang Reviewer",
+    "username":"tmcveigh","name":"Tim McVeigh",
     "role":"Backend Engineer",
     "projects": {
-      "gitlab-operations-poc":"reviewer golang"
+      "gitlab-operations-poc":"reviewer frontend"
     }
-  }
+  },
+    {
+    "username":"tim.edmondson","name":"Tim Edmondson",
+    "role":"Backend Engineer",
+    "projects": {
+      "gitlab-operations-poc":"maintainer frontend"
+    }
+  },
+  {
+    "username":"Nathan.Hitchings","name":"Nathan Hitchings",
+    "role":"Backend Engineer",
+    "projects": {
+      "gitlab-operations-poc":"maintainer frontend"
+    }
+  },
 ]
