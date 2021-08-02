@@ -68,5 +68,12 @@
     "projects": {
       "gitlab-operations-poc":"maintainer frontend"
     }
+  },
+  {
+    "username":"tmcveigh","name":"Tim McVeigh",
+    "role":"Backend Engineer",
+    "projects": {
+      "gitlab-operations-poc":"maintainer frontend"
+    }
   }
 ]
